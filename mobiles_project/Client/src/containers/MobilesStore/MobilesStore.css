@@ -1,0 +1,84 @@
+/* .MobilesStore {
+    display: inline;
+    justify-content: space-between;
+    max-width: 100%; 
+    display: inline-flex;
+    flex-wrap: wrap;
+    
+} */
+/* 
+.MobilesStore {
+    text-align: center;
+    display: inline-block;
+    background-color: sandybrown;
+    justify-content: center;
+    align-content: center;
+  }
+  
+   .FirstContainer {
+    position: fixed;
+    background-color: rgb(214, 44, 44);
+    width: 50%;
+    display: flex;
+    border-radius: 5px;
+  }
+  
+  .SecondContainer {
+    position: fixed;
+    background-color: rgb(150, 219, 104);
+    border-radius: 5px;
+    width: 30%;
+    margin-right: 0.2em;
+  }  */
+
+  /*
+  ------------------------------------------------------------------------
+  */
+/* 
+  .MobilesStore {
+    display: block;
+    justify-content: center;
+    flex-direction: row;
+    align-content: flex-start;
+    margin: 0.2em;
+    width: 100%;
+  }
+  
+   .FirstContainer {
+    position: static;
+    max-width: 100%;
+    border-radius: 5px;
+    left: 500px;
+    flex-direction: row;
+    display: block;
+  }
+  
+  .SecondContainer {
+    position: static;
+    width: 100%;
+    border-radius: 5px;
+  }  */
+
+   /*
+  ------------------------------------------------------------------------
+  */
+
+  .MobilesStore {
+    font-family: sans-serif;
+    text-align: center;
+    display: inline-block;
+    justify-content: flex-start;
+    margin: 0.1em;
+    border-radius: 5px;
+  }
+  
+  .FirstContainer {
+    position: static;
+    width: 60%;
+  }
+  
+  .SecondContainer {
+    position: static;
+    width: 37%;
+    margin-right: 0.5em;
+  }
